@@ -1,0 +1,7 @@
+# Ignore SQLite database files
+billing_app/db/billing.db
+billing_app/db/billing 2.db
+
+# Optional: ignore compiled Python files and caches
+__pycache__/
+*.pyc
